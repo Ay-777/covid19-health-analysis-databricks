@@ -69,8 +69,8 @@ Job features:
 
 Screenshots included:  
  ✔ `job_schedule_details.png`
+![image](./job_schedule_details.png)
 
----
 
 ## 6. Repository Structure
 
