@@ -50,9 +50,9 @@ Dashboard features:
 - A global **continent filter** that updates all widgets  
 
 Export included:  
-✔ `covid19_dashboard.png`
+✔ `covid19_dashboard1.png`
+✔ `covid19_dashboard2.png`
 
----
 
 ## 5. Automated Pipeline (Bonus)
 A Databricks **Job** was created to automatically run the API ingestion every day.
