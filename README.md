@@ -50,7 +50,7 @@ Dashboard features:
 - A global **continent filter** that updates all widgets  
 
 Export included:  
-✔ `covid19_dashboard.pdf`
+✔ `covid19_dashboard.png`
 
 ---
 
@@ -64,9 +64,7 @@ Job features:
 - Custom job description  
 
 Screenshots included:  
-✔ `job_run_success.png`  
-✔ `job_schedule.png`  
-✔ `job_details.png`
+ ✔ `job_schedule_details.png`
 
 ---
 
