@@ -51,7 +51,11 @@ Dashboard features:
 
 Export included:  
 ✔ `covid19_dashboard1.png`
+![image](./covid19_dashboard1.png)
+
 ✔ `covid19_dashboard2.png`
+![image](./covid19_dashboard2.png)
+
 
 
 ## 5. Automated Pipeline (Bonus)
